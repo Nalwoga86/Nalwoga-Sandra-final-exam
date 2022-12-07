@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+ .school{
+    border: 1px solid red;
+    height: 100;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 45px;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+h2{color: blue;
+    margin: 10px 0px 10px;
+    font-size: 50px;
+}
+h5{
+    color: black;
+    margin: 10px 0px 10px;
+    font-size: 20px;
+}
+h6{
+    color: aquamarine;
+    margin: 10px 0px 10px;
+    font-size: 20px;
+}
